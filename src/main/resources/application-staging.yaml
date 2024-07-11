@@ -1,0 +1,5 @@
+jevisonProps:
+   serverConfig:
+     host: 192.101.88.02
+     port: 2389
+     

@@ -1,0 +1,6 @@
+POST http://localhost:2389/register
+
+{
+"name": "obi",
+"department": "maths"
+}
